@@ -1,0 +1,1 @@
+RLlib implementation of Foerster, Jakob N., et al. "Counterfactual Multi-Agent Policy Gradients." (2018).
